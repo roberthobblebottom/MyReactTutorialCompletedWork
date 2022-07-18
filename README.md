@@ -1,4 +1,4 @@
-Here is my completed attempt for Tic Tac Toe from https://reactjs.org/tutorial/tutorial.html
+Here is my completed work for Tic Tac Toe exercise from https://reactjs.org/tutorial/tutorial.html
 My codes written on script.babel. The other codes are done the React tutorial writer from the link above.
 
 I have also completed the ideas for improvements as mentioned in the last section: "Adding Time Travel: Wrapping Up"
